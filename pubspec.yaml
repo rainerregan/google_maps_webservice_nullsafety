@@ -1,4 +1,4 @@
-name: google_maps_webservice
+name: google_maps_webservice_nullsafety
 description: Google Maps Web Services [API](https://developers.google.com/maps/web-services)
 version: 0.0.20-nullsafety.1
 homepage: https://github.com/lejard-h/google_maps_webservice
